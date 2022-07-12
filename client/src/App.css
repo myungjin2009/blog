@@ -1,6 +1,19 @@
+.header {
+  width: 100vw;
+  height: 170px;
+  background-color: aqua;
+  text-align: center;  
+}
+.main {
+  width: 100vw;
+  height: 1400px;
+  background-color:greenyellow;
+}
+
 .App {
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
